@@ -1,0 +1,5 @@
+{
+    "sketch": "HC-SR04_4.ino",
+    "configuration": "cpu=atmega2560",
+    "board": "arduino:avr:mega"
+}
